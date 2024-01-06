@@ -28,6 +28,7 @@ pre[class*=language-]{
     /* background:#2d2d2d */
     border: 2px solid #545454;
     padding:0;
+    margin:5px;
 }
 :not(pre)>code[class*=language-]{
     padding:.1em;
